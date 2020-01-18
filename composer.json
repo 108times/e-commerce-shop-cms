@@ -1,0 +1,11 @@
+{
+  "autoload": {
+   "require": {
+
+    },
+    "psr-4": {
+      "ishop\\":"vendor/ishop/core",
+      "app\\": "app"
+   }
+  }
+}
